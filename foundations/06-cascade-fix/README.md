@@ -10,8 +10,8 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 ## Desired Outcome
 
-![desired outcome](./desired-outcome.png)
-
+![desired outcome](./desred-outcome.png)
+i
 ### Self Check
 
 - Did you make sure to not edit the HTML file?
